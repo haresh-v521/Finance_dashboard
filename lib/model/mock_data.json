@@ -1,0 +1,2085 @@
+[
+  {
+    "id": "1",
+    "periodDate": "2024-01-01",
+    "creditAmount": 0.0,
+    "debitAmount": 1500.0,
+    "category": {
+      "name": "Service Income",
+      "code": "1001",
+      "sortString": "1001",
+      "type": "Income",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "2",
+    "periodDate": "2024-01-01",
+    "creditAmount": 5000.0,
+    "debitAmount": 0.0,
+    "category": {
+      "name": "Other Income",
+      "code": "1002",
+      "sortString": "1002",
+      "type": "Income",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "3",
+    "periodDate": "2024-02-01",
+    "creditAmount": 0.0,
+    "debitAmount": 300.0,
+    "category": {
+      "name": "Labor Cost",
+      "code": "6003",
+      "sortString": "6003",
+      "type": "Cost",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "4",
+    "periodDate": "2024-02-01",
+    "creditAmount": 0.0,
+    "debitAmount": 1200.0,
+    "category": {
+      "name": "Meal Expense",
+      "code": "7004",
+      "sortString": "7004",
+      "type": "Expense",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "5",
+    "periodDate": "2024-03-01",
+    "creditAmount": 2500.0,
+    "debitAmount": 0.0,
+    "category": {
+      "name": "Income",
+      "code": "1003",
+      "sortString": "1003",
+      "type": "Income",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "6",
+    "periodDate": "2024-03-01",
+    "creditAmount": 0.0,
+    "debitAmount": 1800.0,
+    "category": {
+      "name": "Cost",
+      "code": "6002",
+      "sortString": "6002",
+      "type": "Cost",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "7",
+    "periodDate": "2024-03-01",
+    "creditAmount": 0.0,
+    "debitAmount": 200.0,
+    "category": {
+      "name": "Expense",
+      "code": "7001",
+      "sortString": "7001",
+      "type": "Expense",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "8",
+    "periodDate": "2024-04-01",
+    "creditAmount": 1000.0,
+    "debitAmount": 0.0,
+    "category": {
+      "name": "Other Income",
+      "code": "1004",
+      "sortString": "1004",
+      "type": "Income",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "9",
+    "periodDate": "2024-04-01",
+    "creditAmount": 0.0,
+    "debitAmount": 900.0,
+    "category": {
+      "name": "Travel Expense",
+      "code": "7002",
+      "sortString": "7002",
+      "type": "Expense",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "10",
+    "periodDate": "2024-05-01",
+    "creditAmount": 0.0,
+    "debitAmount": 600.0,
+    "category": {
+      "name": "Marketing Expense",
+      "code": "7003",
+      "sortString": "7003",
+      "type": "Expense",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "11",
+    "periodDate": "2024-05-01",
+    "creditAmount": 8000.0,
+    "debitAmount": 0.0,
+    "category": {
+      "name": "Service Income",
+      "code": "1005",
+      "sortString": "1005",
+      "type": "Income",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "12",
+    "periodDate": "2024-06-01",
+    "creditAmount": 0.0,
+    "debitAmount": 1000.0,
+    "category": {
+      "name": "Labor Cost",
+      "code": "6003",
+      "sortString": "6003",
+      "type": "Cost",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "13",
+    "periodDate": "2024-06-01",
+    "creditAmount": 3500.0,
+    "debitAmount": 0.0,
+    "category": {
+      "name": "Other Income",
+      "code": "1006",
+      "sortString": "1006",
+      "type": "Income",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "14",
+    "periodDate": "2024-07-01",
+    "creditAmount": 0.0,
+    "debitAmount": 2200.0,
+    "category": {
+      "name": "Meal Expense",
+      "code": "7004",
+      "sortString": "7004",
+      "type": "Expense",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "15",
+    "periodDate": "2024-07-01",
+    "creditAmount": 12000.0,
+    "debitAmount": 0.0,
+    "category": {
+      "name": "VC Equity",
+      "code": "3001",
+      "sortString": "3001",
+      "type": "Income",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "16",
+    "periodDate": "2024-08-01",
+    "creditAmount": 0.0,
+    "debitAmount": 5000.0,
+    "category": {
+      "name": "Asset",
+      "code": "5000",
+      "sortString": "5000",
+      "type": "Cost",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "17",
+    "periodDate": "2024-08-01",
+    "creditAmount": 15000.0,
+    "debitAmount": 0.0,
+    "category": {
+      "name": "Equity",
+      "code": "3000",
+      "sortString": "3000",
+      "type": "Income",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "18",
+    "periodDate": "2024-08-01",
+    "creditAmount": 0.0,
+    "debitAmount": 3500.0,
+    "category": {
+      "name": "Marketing Expense",
+      "code": "7005",
+      "sortString": "7005",
+      "type": "Expense",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "19",
+    "periodDate": "2024-09-01",
+    "creditAmount": 6000.0,
+    "debitAmount": 0.0,
+    "category": {
+      "name": "Income",
+      "code": "1007",
+      "sortString": "1007",
+      "type": "Income",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },{
+    "id": "20",
+    "periodDate": "2024-09-01",
+    "creditAmount": 6000.0,
+    "debitAmount": 0.0,
+    "category": {
+      "name": "Other Income",
+      "code": "1007",
+      "sortString": "1007",
+      "type": "Other Income",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },{
+    "id": "21",
+    "periodDate": "2024-09-01",
+    "creditAmount": 3000.0,
+    "debitAmount": 0.0,
+    "category": {
+      "name": "Service Income",
+      "code": "1007",
+      "sortString": "1007",
+      "type": "Income",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "22",
+    "periodDate": "2024-09-01",
+    "creditAmount": 0.0,
+    "debitAmount": 1700.0,
+    "category": {
+      "name": "Labour Cost",
+      "code": "6004",
+      "sortString": "6004",
+      "type": "Cost",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },{
+    "id": "23",
+    "periodDate": "2024-09-01",
+    "creditAmount": 0.0,
+    "debitAmount": 1700.0,
+    "category": {
+      "name": "Cost",
+      "code": "6004",
+      "sortString": "6004",
+      "type": "Cost",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },{
+    "id": "24",
+    "periodDate": "2024-09-01",
+    "creditAmount": 0.0,
+    "debitAmount": 2000.0,
+    "category": {
+      "name": "Service Cost",
+      "code": "6004",
+      "sortString": "6004",
+      "type": "Cost",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },{
+    "id": "25",
+    "periodDate": "2024-09-01",
+    "creditAmount": 0.0,
+    "debitAmount": 700.0,
+    "category": {
+      "name": "Labour Cost",
+      "code": "6004",
+      "sortString": "6004",
+      "type": "Cost",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "26",
+    "periodDate": "2024-09-01",
+    "creditAmount": 9000.0,
+    "debitAmount": 0.0,
+    "category": {
+      "name": "Service Income",
+      "code": "1008",
+      "sortString": "1008",
+      "type": "Income",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "27",
+    "periodDate": "2024-09-01",
+    "creditAmount": 9000.0,
+    "debitAmount": 0.0,
+    "category": {
+      "name": "Service Income",
+      "code": "1008",
+      "sortString": "1008",
+      "type": "Income",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "28",
+    "periodDate": "2024-09-01",
+    "creditAmount": 0.0,
+    "debitAmount": 3500.0,
+    "category": {
+      "name": "Travel Expense",
+      "code": "7005",
+      "sortString": "7005",
+      "type": "Expense",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "29",
+    "periodDate": "2024-09-01",
+    "creditAmount": 0.0,
+    "debitAmount": 3500.0,
+    "category": {
+      "name": "Expense",
+      "code": "7001",
+      "sortString": "7001",
+      "type": "Expense",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+  "id": "1",
+  "periodDate": "2024-01-01",
+  "creditAmount": 0.0,
+  "debitAmount": 1500.0,
+  "category": {
+    "name": "Service Income",
+    "code": "1001",
+    "sortString": "1001",
+    "type": "Income",
+    "currency": "USD",
+    "indent": [0]
+  }
+},
+  {
+    "id": "2",
+    "periodDate": "2024-01-01",
+    "creditAmount": 5000.0,
+    "debitAmount": 0.0,
+    "category": {
+      "name": "Other Income",
+      "code": "1002",
+      "sortString": "1002",
+      "type": "Income",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "3",
+    "periodDate": "2024-02-01",
+    "creditAmount": 0.0,
+    "debitAmount": 1200.0,
+    "category": {
+      "name": "Meal Expense",
+      "code": "7004",
+      "sortString": "7004",
+      "type": "Expense",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "4",
+    "periodDate": "2024-03-01",
+    "creditAmount": 2500.0,
+    "debitAmount": 0.0,
+    "category": {
+      "name": "Income",
+      "code": "1003",
+      "sortString": "1003",
+      "type": "Income",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "5",
+    "periodDate": "2024-03-01",
+    "creditAmount": 0.0,
+    "debitAmount": 1800.0,
+    "category": {
+      "name": "Cost",
+      "code": "6002",
+      "sortString": "6002",
+      "type": "Cost",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "6",
+    "periodDate": "2024-03-01",
+    "creditAmount": 0.0,
+    "debitAmount": 1800.0,
+    "category": {
+      "name": "Expense",
+      "code": "7001",
+      "sortString": "7001",
+      "type": "Expense",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "7",
+    "periodDate": "2024-04-01",
+    "creditAmount": 1000.0,
+    "debitAmount": 0.0,
+    "category": {
+      "name": "Other Income",
+      "code": "1004",
+      "sortString": "1004",
+      "type": "Income",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "8",
+    "periodDate": "2024-04-01",
+    "creditAmount": 0.0,
+    "debitAmount": 900.0,
+    "category": {
+      "name": "Travel Expense",
+      "code": "7002",
+      "sortString": "7002",
+      "type": "Expense",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "9",
+    "periodDate": "2024-05-01",
+    "creditAmount": 0.0,
+    "debitAmount": 600.0,
+    "category": {
+      "name": "Marketing Expense",
+      "code": "7003",
+      "sortString": "7003",
+      "type": "Expense",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "10",
+    "periodDate": "2024-05-01",
+    "creditAmount": 8000.0,
+    "debitAmount": 0.0,
+    "category": {
+      "name": "Service Income",
+      "code": "1005",
+      "sortString": "1005",
+      "type": "Income",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+
+  {
+    "id": "11",
+    "periodDate": "2024-06-01",
+    "creditAmount": 3500.0,
+    "debitAmount": 0.0,
+    "category": {
+      "name": "Other Income",
+      "code": "1006",
+      "sortString": "1006",
+      "type": "Income",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "12",
+    "periodDate": "2024-07-01",
+    "creditAmount": 0.0,
+    "debitAmount": 2200.0,
+    "category": {
+      "name": "Meal Expense",
+      "code": "7004",
+      "sortString": "7004",
+      "type": "Expense",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "13",
+    "periodDate": "2024-07-01",
+    "creditAmount": 12000.0,
+    "debitAmount": 0.0,
+    "category": {
+      "name": "VC Equity",
+      "code": "3001",
+      "sortString": "3001",
+      "type": "Income",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "14",
+    "periodDate": "2024-08-01",
+    "creditAmount": 0.0,
+    "debitAmount": 5000.0,
+    "category": {
+      "name": "Asset",
+      "code": "5000",
+      "sortString": "5000",
+      "type": "Cost",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "15",
+    "periodDate": "2024-08-01",
+    "creditAmount": 15000.0,
+    "debitAmount": 0.0,
+    "category": {
+      "name": "Equity",
+      "code": "3000",
+      "sortString": "3000",
+      "type": "Income",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "16",
+    "periodDate": "2024-08-01",
+    "creditAmount": 0.0,
+    "debitAmount": 3500.0,
+    "category": {
+      "name": "Marketing Expense",
+      "code": "7005",
+      "sortString": "7005",
+      "type": "Expense",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "17",
+    "periodDate": "2024-09-01",
+    "creditAmount": 6000.0,
+    "debitAmount": 0.0,
+    "category": {
+      "name": "Income",
+      "code": "1007",
+      "sortString": "1007",
+      "type": "Income",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "18",
+    "periodDate": "2024-09-01",
+    "creditAmount": 0.0,
+    "debitAmount": 1700.0,
+    "category": {
+      "name": "Cost",
+      "code": "6004",
+      "sortString": "6004",
+      "type": "Cost",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "19",
+    "periodDate": "2024-09-01",
+    "creditAmount": 0.0,
+    "debitAmount": 1700.0,
+    "category": {
+      "name": "Expense",
+      "code": "7004",
+      "sortString": "7004",
+      "type": "Expense",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "20",
+    "periodDate": "2024-09-01",
+    "creditAmount": 9000.0,
+    "debitAmount": 0.0,
+    "category": {
+      "name": "Service Income",
+      "code": "1008",
+      "sortString": "1008",
+      "type": "Income",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },{
+  "id": "1",
+  "periodDate": "2024-01-01",
+  "creditAmount": 0.0,
+  "debitAmount": 1500.0,
+  "category": {
+    "name": "Service Income",
+    "code": "1001",
+    "sortString": "1001",
+    "type": "Income",
+    "currency": "USD",
+    "indent": [0]
+  }
+},
+  {
+    "id": "2",
+    "periodDate": "2024-01-01",
+    "creditAmount": 5000.0,
+    "debitAmount": 0.0,
+    "category": {
+      "name": "Other Income",
+      "code": "1002",
+      "sortString": "1002",
+      "type": "Income",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+
+  {
+    "id": "3",
+    "periodDate": "2024-02-01",
+    "creditAmount": 0.0,
+    "debitAmount": 1200.0,
+    "category": {
+      "name": "Meal Expense",
+      "code": "7004",
+      "sortString": "7004",
+      "type": "Expense",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "4",
+    "periodDate": "2024-03-01",
+    "creditAmount": 2500.0,
+    "debitAmount": 0.0,
+    "category": {
+      "name": "Income",
+      "code": "1003",
+      "sortString": "1003",
+      "type": "Income",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "5",
+    "periodDate": "2024-03-01",
+    "creditAmount": 0.0,
+    "debitAmount": 1400.0,
+    "category": {
+      "name": "Cost",
+      "code": "6002",
+      "sortString": "6002",
+      "type": "Cost",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "6",
+    "periodDate": "2024-03-01",
+    "creditAmount": 0.0,
+    "debitAmount": 400.0,
+    "category": {
+      "name": "Expense",
+      "code": "7002",
+      "sortString": "7002",
+      "type": "Expense",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "7",
+    "periodDate": "2024-04-01",
+    "creditAmount": 1000.0,
+    "debitAmount": 0.0,
+    "category": {
+      "name": "Other Income",
+      "code": "1004",
+      "sortString": "1004",
+      "type": "Income",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "8",
+    "periodDate": "2024-04-01",
+    "creditAmount": 0.0,
+    "debitAmount": 900.0,
+    "category": {
+      "name": "Travel Expense",
+      "code": "7002",
+      "sortString": "7002",
+      "type": "Expense",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "9",
+    "periodDate": "2024-05-01",
+    "creditAmount": 0.0,
+    "debitAmount": 600.0,
+    "category": {
+      "name": "Marketing Expense",
+      "code": "7003",
+      "sortString": "7003",
+      "type": "Expense",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "10",
+    "periodDate": "2024-05-01",
+    "creditAmount": 8000.0,
+    "debitAmount": 0.0,
+    "category": {
+      "name": "Service Income",
+      "code": "1005",
+      "sortString": "1005",
+      "type": "Income",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+
+  {
+    "id": "11",
+    "periodDate": "2024-06-01",
+    "creditAmount": 3500.0,
+    "debitAmount": 0.0,
+    "category": {
+      "name": "Other Income",
+      "code": "1006",
+      "sortString": "1006",
+      "type": "Income",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "12",
+    "periodDate": "2024-07-01",
+    "creditAmount": 0.0,
+    "debitAmount": 2200.0,
+    "category": {
+      "name": "Meal Expense",
+      "code": "7004",
+      "sortString": "7004",
+      "type": "Expense",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "13",
+    "periodDate": "2024-07-01",
+    "creditAmount": 12000.0,
+    "debitAmount": 0.0,
+    "category": {
+      "name": "VC Equity",
+      "code": "3001",
+      "sortString": "3001",
+      "type": "Income",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "14",
+    "periodDate": "2024-08-01",
+    "creditAmount": 0.0,
+    "debitAmount": 5000.0,
+    "category": {
+      "name": "Asset",
+      "code": "5000",
+      "sortString": "5000",
+      "type": "Cost",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "15",
+    "periodDate": "2024-08-01",
+    "creditAmount": 15000.0,
+    "debitAmount": 0.0,
+    "category": {
+      "name": "Equity",
+      "code": "3000",
+      "sortString": "3000",
+      "type": "Income",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "16",
+    "periodDate": "2024-08-01",
+    "creditAmount": 0.0,
+    "debitAmount": 3500.0,
+    "category": {
+      "name": "Marketing Expense",
+      "code": "7005",
+      "sortString": "7005",
+      "type": "Expense",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "17",
+    "periodDate": "2024-09-01",
+    "creditAmount": 6000.0,
+    "debitAmount": 0.0,
+    "category": {
+      "name": "Income",
+      "code": "1007",
+      "sortString": "1007",
+      "type": "Income",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "18",
+    "periodDate": "2024-09-01",
+    "creditAmount": 0.0,
+    "debitAmount": 1700.0,
+    "category": {
+      "name": "Cost",
+      "code": "6004",
+      "sortString": "6004",
+      "type": "Cost",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "19",
+    "periodDate": "2024-09-01",
+    "creditAmount": 0.0,
+    "debitAmount": 1200.0,
+    "category": {
+      "name": "Expense",
+      "code": "7004",
+      "sortString": "7004",
+      "type": "Expense",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "20",
+    "periodDate": "2024-09-01",
+    "creditAmount": 9000.0,
+    "debitAmount": 0.0,
+    "category": {
+      "name": "Service Income",
+      "code": "1008",
+      "sortString": "1008",
+      "type": "Income",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },{
+  "id": "1",
+  "periodDate": "2024-01-01",
+  "creditAmount": 0.0,
+  "debitAmount": 1500.0,
+  "category": {
+    "name": "Service Income",
+    "code": "1001",
+    "sortString": "1001",
+    "type": "Income",
+    "currency": "USD",
+    "indent": [0]
+  }
+},
+  {
+    "id": "2",
+    "periodDate": "2024-01-01",
+    "creditAmount": 5000.0,
+    "debitAmount": 0.0,
+    "category": {
+      "name": "Other Income",
+      "code": "1002",
+      "sortString": "1002",
+      "type": "Income",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+
+  {
+    "id": "3",
+    "periodDate": "2024-02-01",
+    "creditAmount": 0.0,
+    "debitAmount": 1200.0,
+    "category": {
+      "name": "Meal Expense",
+      "code": "7004",
+      "sortString": "7004",
+      "type": "Expense",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "4",
+    "periodDate": "2024-03-01",
+    "creditAmount": 2500.0,
+    "debitAmount": 0.0,
+    "category": {
+      "name": "Income",
+      "code": "1003",
+      "sortString": "1003",
+      "type": "Income",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "5",
+    "periodDate": "2024-03-01",
+    "creditAmount": 0.0,
+    "debitAmount": 300.0,
+    "category": {
+      "name": "Cost",
+      "code": "6002",
+      "sortString": "6002",
+      "type": "Cost",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "6",
+    "periodDate": "2024-03-01",
+    "creditAmount": 0.0,
+    "debitAmount": 1300.0,
+    "category": {
+      "name": "Expense",
+      "code": "7001",
+      "sortString": "7001",
+      "type": "Expense",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "7",
+    "periodDate": "2024-04-01",
+    "creditAmount": 1000.0,
+    "debitAmount": 0.0,
+    "category": {
+      "name": "Other Income",
+      "code": "1004",
+      "sortString": "1004",
+      "type": "Income",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "8",
+    "periodDate": "2024-04-01",
+    "creditAmount": 0.0,
+    "debitAmount": 900.0,
+    "category": {
+      "name": "Travel Expense",
+      "code": "7002",
+      "sortString": "7002",
+      "type": "Expense",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "9",
+    "periodDate": "2024-05-01",
+    "creditAmount": 0.0,
+    "debitAmount": 600.0,
+    "category": {
+      "name": "Marketing Expense",
+      "code": "7003",
+      "sortString": "7003",
+      "type": "Expense",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "10",
+    "periodDate": "2024-05-01",
+    "creditAmount": 8000.0,
+    "debitAmount": 0.0,
+    "category": {
+      "name": "Service Income",
+      "code": "1005",
+      "sortString": "1005",
+      "type": "Income",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+
+  {
+    "id": "11",
+    "periodDate": "2024-06-01",
+    "creditAmount": 3500.0,
+    "debitAmount": 0.0,
+    "category": {
+      "name": "Other Income",
+      "code": "1006",
+      "sortString": "1006",
+      "type": "Income",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "12",
+    "periodDate": "2024-07-01",
+    "creditAmount": 0.0,
+    "debitAmount": 2200.0,
+    "category": {
+      "name": "Meal Expense",
+      "code": "7004",
+      "sortString": "7004",
+      "type": "Expense",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "13",
+    "periodDate": "2024-07-01",
+    "creditAmount": 12000.0,
+    "debitAmount": 0.0,
+    "category": {
+      "name": "VC Equity",
+      "code": "3001",
+      "sortString": "3001",
+      "type": "Income",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "14",
+    "periodDate": "2024-08-01",
+    "creditAmount": 0.0,
+    "debitAmount": 5000.0,
+    "category": {
+      "name": "Asset",
+      "code": "5000",
+      "sortString": "5000",
+      "type": "Cost",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "15",
+    "periodDate": "2024-08-01",
+    "creditAmount": 15000.0,
+    "debitAmount": 0.0,
+    "category": {
+      "name": "Equity",
+      "code": "3000",
+      "sortString": "3000",
+      "type": "Income",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "16",
+    "periodDate": "2024-08-01",
+    "creditAmount": 0.0,
+    "debitAmount": 3500.0,
+    "category": {
+      "name": "Marketing Expense",
+      "code": "7005",
+      "sortString": "7005",
+      "type": "Expense",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "17",
+    "periodDate": "2024-09-01",
+    "creditAmount": 6000.0,
+    "debitAmount": 0.0,
+    "category": {
+      "name": "Income",
+      "code": "1007",
+      "sortString": "1007",
+      "type": "Income",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "18",
+    "periodDate": "2024-09-01",
+    "creditAmount": 0.0,
+    "debitAmount": 1400.0,
+    "category": {
+      "name": "Cost",
+      "code": "6004",
+      "sortString": "6004",
+      "type": "Cost",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "19",
+    "periodDate": "2024-09-01",
+    "creditAmount": 0.0,
+    "debitAmount": 1600.0,
+    "category": {
+      "name": "Expense",
+      "code": "7004",
+      "sortString": "7004",
+      "type": "Expense",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "20",
+    "periodDate": "2024-09-01",
+    "creditAmount": 9000.0,
+    "debitAmount": 0.0,
+    "category": {
+      "name": "Service Income",
+      "code": "1008",
+      "sortString": "1008",
+      "type": "Income",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },{
+  "id": "1",
+  "periodDate": "2024-01-01",
+  "creditAmount": 0.0,
+  "debitAmount": 1500.0,
+  "category": {
+    "name": "Service Income",
+    "code": "1001",
+    "sortString": "1001",
+    "type": "Income",
+    "currency": "USD",
+    "indent": [0]
+  }
+},
+  {
+    "id": "2",
+    "periodDate": "2024-01-01",
+    "creditAmount": 5000.0,
+    "debitAmount": 0.0,
+    "category": {
+      "name": "Other Income",
+      "code": "1002",
+      "sortString": "1002",
+      "type": "Income",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+
+  {
+    "id": "3",
+    "periodDate": "2024-02-01",
+    "creditAmount": 0.0,
+    "debitAmount": 1200.0,
+    "category": {
+      "name": "Meal Expense",
+      "code": "7004",
+      "sortString": "7004",
+      "type": "Expense",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "4",
+    "periodDate": "2024-03-01",
+    "creditAmount": 2500.0,
+    "debitAmount": 0.0,
+    "category": {
+      "name": "Income",
+      "code": "1003",
+      "sortString": "1003",
+      "type": "Income",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "5",
+    "periodDate": "2023-03-01",
+    "creditAmount": 0.0,
+    "debitAmount": 1800.0,
+    "category": {
+      "name": "Cost",
+      "code": "6002",
+      "sortString": "6002",
+      "type": "Cost",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "6",
+    "periodDate": "2023-03-01",
+    "creditAmount": 0.0,
+    "debitAmount": 1800.0,
+    "category": {
+      "name": "Expense",
+      "code": "7001",
+      "sortString": "7001",
+      "type": "Expense",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "7",
+    "periodDate": "2023-04-01",
+    "creditAmount": 1000.0,
+    "debitAmount": 0.0,
+    "category": {
+      "name": "Other Income",
+      "code": "1004",
+      "sortString": "1004",
+      "type": "Income",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "8",
+    "periodDate": "2023-04-01",
+    "creditAmount": 0.0,
+    "debitAmount": 900.0,
+    "category": {
+      "name": "Travel Expense",
+      "code": "7002",
+      "sortString": "7002",
+      "type": "Expense",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "9",
+    "periodDate": "2023-05-01",
+    "creditAmount": 0.0,
+    "debitAmount": 600.0,
+    "category": {
+      "name": "Marketing Expense",
+      "code": "7003",
+      "sortString": "7003",
+      "type": "Expense",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "10",
+    "periodDate": "2023-05-01",
+    "creditAmount": 8000.0,
+    "debitAmount": 0.0,
+    "category": {
+      "name": "Service Income",
+      "code": "1005",
+      "sortString": "1005",
+      "type": "Income",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+
+  {
+    "id": "11",
+    "periodDate": "2023-06-01",
+    "creditAmount": 3500.0,
+    "debitAmount": 0.0,
+    "category": {
+      "name": "Other Income",
+      "code": "1006",
+      "sortString": "1006",
+      "type": "Income",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "12",
+    "periodDate": "2023-07-01",
+    "creditAmount": 0.0,
+    "debitAmount": 2200.0,
+    "category": {
+      "name": "Meal Expense",
+      "code": "7004",
+      "sortString": "7004",
+      "type": "Expense",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "13",
+    "periodDate": "2023-07-01",
+    "creditAmount": 12000.0,
+    "debitAmount": 0.0,
+    "category": {
+      "name": "VC Equity",
+      "code": "3001",
+      "sortString": "3001",
+      "type": "Income",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "14",
+    "periodDate": "2023-08-01",
+    "creditAmount": 0.0,
+    "debitAmount": 5000.0,
+    "category": {
+      "name": "Asset",
+      "code": "5000",
+      "sortString": "5000",
+      "type": "Cost",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "15",
+    "periodDate": "2023-08-01",
+    "creditAmount": 15000.0,
+    "debitAmount": 0.0,
+    "category": {
+      "name": "Equity",
+      "code": "3000",
+      "sortString": "3000",
+      "type": "Income",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "16",
+    "periodDate": "2023-08-01",
+    "creditAmount": 0.0,
+    "debitAmount": 3500.0,
+    "category": {
+      "name": "Marketing Expense",
+      "code": "7005",
+      "sortString": "7005",
+      "type": "Expense",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "17",
+    "periodDate": "2023-09-01",
+    "creditAmount": 6000.0,
+    "debitAmount": 0.0,
+    "category": {
+      "name": "Income",
+      "code": "1007",
+      "sortString": "1007",
+      "type": "Income",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "18",
+    "periodDate": "2023-09-01",
+    "creditAmount": 0.0,
+    "debitAmount": 1700.0,
+    "category": {
+      "name": "Cost",
+      "code": "6004",
+      "sortString": "6004",
+      "type": "Cost",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "19",
+    "periodDate": "2023-09-01",
+    "creditAmount": 0.0,
+    "debitAmount": 1700.0,
+    "category": {
+      "name": "Expense",
+      "code": "7004",
+      "sortString": "7004",
+      "type": "Expense",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "20",
+    "periodDate": "2023-09-01",
+    "creditAmount": 9000.0,
+    "debitAmount": 0.0,
+    "category": {
+      "name": "Service Income",
+      "code": "1008",
+      "sortString": "1008",
+      "type": "Income",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },{
+  "id": "1",
+  "periodDate": "2023-01-01",
+  "creditAmount": 0.0,
+  "debitAmount": 1500.0,
+  "category": {
+    "name": "Service Income",
+    "code": "1001",
+    "sortString": "1001",
+    "type": "Income",
+    "currency": "USD",
+    "indent": [0]
+  }
+},
+  {
+    "id": "2",
+    "periodDate": "2023-01-01",
+    "creditAmount": 5000.0,
+    "debitAmount": 0.0,
+    "category": {
+      "name": "Other Income",
+      "code": "1002",
+      "sortString": "1002",
+      "type": "Income",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+
+  {
+    "id": "3",
+    "periodDate": "2023-02-01",
+    "creditAmount": 0.0,
+    "debitAmount": 1200.0,
+    "category": {
+      "name": "Meal Expense",
+      "code": "7004",
+      "sortString": "7004",
+      "type": "Expense",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "4",
+    "periodDate": "2023-03-01",
+    "creditAmount": 2500.0,
+    "debitAmount": 0.0,
+    "category": {
+      "name": "Income",
+      "code": "1003",
+      "sortString": "1003",
+      "type": "Income",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "5",
+    "periodDate": "2023-03-01",
+    "creditAmount": 0.0,
+    "debitAmount": 200.0,
+    "category": {
+      "name": "Cost",
+      "code": "6002",
+      "sortString": "6002",
+      "type": "Cost",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },{
+    "id": "6",
+    "periodDate": "2023-03-01",
+    "creditAmount": 0.0,
+    "debitAmount": 1100.0,
+    "category": {
+      "name": "Expense",
+      "code": "7001",
+      "sortString": "7001",
+      "type": "Expense",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "7",
+    "periodDate": "2023-04-01",
+    "creditAmount": 1000.0,
+    "debitAmount": 0.0,
+    "category": {
+      "name": "Other Income",
+      "code": "1004",
+      "sortString": "1004",
+      "type": "Income",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "8",
+    "periodDate": "2023-04-01",
+    "creditAmount": 0.0,
+    "debitAmount": 900.0,
+    "category": {
+      "name": "Travel Expense",
+      "code": "7002",
+      "sortString": "7002",
+      "type": "Expense",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "9",
+    "periodDate": "2023-05-01",
+    "creditAmount": 0.0,
+    "debitAmount": 600.0,
+    "category": {
+      "name": "Marketing Expense",
+      "code": "7003",
+      "sortString": "7003",
+      "type": "Expense",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "10",
+    "periodDate": "2023-05-01",
+    "creditAmount": 8000.0,
+    "debitAmount": 0.0,
+    "category": {
+      "name": "Service Income",
+      "code": "1005",
+      "sortString": "1005",
+      "type": "Income",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+
+  {
+    "id": "11",
+    "periodDate": "2023-06-01",
+    "creditAmount": 3500.0,
+    "debitAmount": 0.0,
+    "category": {
+      "name": "Other Income",
+      "code": "1006",
+      "sortString": "1006",
+      "type": "Income",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "12",
+    "periodDate": "2023-07-01",
+    "creditAmount": 0.0,
+    "debitAmount": 2200.0,
+    "category": {
+      "name": "Meal Expense",
+      "code": "7004",
+      "sortString": "7004",
+      "type": "Expense",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "13",
+    "periodDate": "2023-07-01",
+    "creditAmount": 12000.0,
+    "debitAmount": 0.0,
+    "category": {
+      "name": "VC Equity",
+      "code": "3001",
+      "sortString": "3001",
+      "type": "Income",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "14",
+    "periodDate": "2023-08-01",
+    "creditAmount": 0.0,
+    "debitAmount": 5000.0,
+    "category": {
+      "name": "Asset",
+      "code": "5000",
+      "sortString": "5000",
+      "type": "Cost",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "15",
+    "periodDate": "2023-08-01",
+    "creditAmount": 15000.0,
+    "debitAmount": 0.0,
+    "category": {
+      "name": "Equity",
+      "code": "3000",
+      "sortString": "3000",
+      "type": "Income",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "16",
+    "periodDate": "2023-08-01",
+    "creditAmount": 0.0,
+    "debitAmount": 3500.0,
+    "category": {
+      "name": "Marketing Expense",
+      "code": "7005",
+      "sortString": "7005",
+      "type": "Expense",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "17",
+    "periodDate": "2023-09-01",
+    "creditAmount": 6000.0,
+    "debitAmount": 0.0,
+    "category": {
+      "name": "Income",
+      "code": "1007",
+      "sortString": "1007",
+      "type": "Income",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "18",
+    "periodDate": "2023-09-01",
+    "creditAmount": 0.0,
+    "debitAmount": 1200.0,
+    "category": {
+      "name": "Cost",
+      "code": "6004",
+      "sortString": "6004",
+      "type": "Cost",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },{
+    "id": "19",
+    "periodDate": "2023-09-01",
+    "creditAmount": 0.0,
+    "debitAmount": 1800.0,
+    "category": {
+      "name": "Expense",
+      "code": "7004",
+      "sortString": "7004",
+      "type": "Expense",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "20",
+    "periodDate": "2023-09-01",
+    "creditAmount": 9000.0,
+    "debitAmount": 0.0,
+    "category": {
+      "name": "Service Income",
+      "code": "1008",
+      "sortString": "1008",
+      "type": "Income",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },{
+  "id": "1",
+  "periodDate": "2023-01-01",
+  "creditAmount": 0.0,
+  "debitAmount": 1500.0,
+  "category": {
+    "name": "Service Income",
+    "code": "1001",
+    "sortString": "1001",
+    "type": "Income",
+    "currency": "USD",
+    "indent": [0]
+  }
+},
+  {
+    "id": "2",
+    "periodDate": "2023-01-01",
+    "creditAmount": 5000.0,
+    "debitAmount": 0.0,
+    "category": {
+      "name": "Other Income",
+      "code": "1002",
+      "sortString": "1002",
+      "type": "Income",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+
+  {
+    "id": "3",
+    "periodDate": "2023-02-01",
+    "creditAmount": 0.0,
+    "debitAmount": 1200.0,
+    "category": {
+      "name": "Meal Expense",
+      "code": "7004",
+      "sortString": "7004",
+      "type": "Expense",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "4",
+    "periodDate": "2023-03-01",
+    "creditAmount": 2500.0,
+    "debitAmount": 0.0,
+    "category": {
+      "name": "Income",
+      "code": "1003",
+      "sortString": "1003",
+      "type": "Income",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "5",
+    "periodDate": "2023-03-01",
+    "creditAmount": 0.0,
+    "debitAmount": 900.0,
+    "category": {
+      "name": "Cost",
+      "code": "6002",
+      "sortString": "6002",
+      "type": "Cost",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },{
+    "id": "6",
+    "periodDate": "2023-03-01",
+    "creditAmount": 0.0,
+    "debitAmount": 600.0,
+    "category": {
+      "name": "Expense",
+      "code": "7001",
+      "sortString": "7001",
+      "type": "Expense",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "7",
+    "periodDate": "2023-04-01",
+    "creditAmount": 1000.0,
+    "debitAmount": 0.0,
+    "category": {
+      "name": "Other Income",
+      "code": "1004",
+      "sortString": "1004",
+      "type": "Income",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "8",
+    "periodDate": "2023-04-01",
+    "creditAmount": 0.0,
+    "debitAmount": 900.0,
+    "category": {
+      "name": "Travel Expense",
+      "code": "7002",
+      "sortString": "7002",
+      "type": "Expense",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "9",
+    "periodDate": "2023-05-01",
+    "creditAmount": 0.0,
+    "debitAmount": 600.0,
+    "category": {
+      "name": "Marketing Expense",
+      "code": "7003",
+      "sortString": "7003",
+      "type": "Expense",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "10",
+    "periodDate": "2023-05-01",
+    "creditAmount": 8000.0,
+    "debitAmount": 0.0,
+    "category": {
+      "name": "Service Income",
+      "code": "1005",
+      "sortString": "1005",
+      "type": "Income",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+
+  {
+    "id": "11",
+    "periodDate": "2023-06-01",
+    "creditAmount": 3500.0,
+    "debitAmount": 0.0,
+    "category": {
+      "name": "Other Income",
+      "code": "1006",
+      "sortString": "1006",
+      "type": "Income",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "12",
+    "periodDate": "2023-07-01",
+    "creditAmount": 0.0,
+    "debitAmount": 2200.0,
+    "category": {
+      "name": "Meal Expense",
+      "code": "7004",
+      "sortString": "7004",
+      "type": "Expense",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "13",
+    "periodDate": "2023-07-01",
+    "creditAmount": 12000.0,
+    "debitAmount": 0.0,
+    "category": {
+      "name": "VC Equity",
+      "code": "3001",
+      "sortString": "3001",
+      "type": "Income",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "14",
+    "periodDate": "2023-08-01",
+    "creditAmount": 0.0,
+    "debitAmount": 5000.0,
+    "category": {
+      "name": "Asset",
+      "code": "5000",
+      "sortString": "5000",
+      "type": "Cost",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "15",
+    "periodDate": "2023-08-01",
+    "creditAmount": 15000.0,
+    "debitAmount": 0.0,
+    "category": {
+      "name": "Equity",
+      "code": "3000",
+      "sortString": "3000",
+      "type": "Income",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "16",
+    "periodDate": "2023-08-01",
+    "creditAmount": 0.0,
+    "debitAmount": 3500.0,
+    "category": {
+      "name": "Marketing Expense",
+      "code": "7005",
+      "sortString": "7005",
+      "type": "Expense",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "17",
+    "periodDate": "2023-09-01",
+    "creditAmount": 6000.0,
+    "debitAmount": 0.0,
+    "category": {
+      "name": "Income",
+      "code": "1007",
+      "sortString": "1007",
+      "type": "Income",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "18",
+    "periodDate": "2023-09-01",
+    "creditAmount": 0.0,
+    "debitAmount": 1800.0,
+    "category": {
+      "name": "Cost",
+      "code": "6004",
+      "sortString": "6004",
+      "type": "Cost",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },{
+    "id": "19",
+    "periodDate": "2023-09-01",
+    "creditAmount": 0.0,
+    "debitAmount": 1700.0,
+    "category": {
+      "name": "Expense",
+      "code": "7004",
+      "sortString": "7004",
+      "type": "Expense",
+      "currency": "USD",
+      "indent": [0]
+    }
+  },
+  {
+    "id": "20",
+    "periodDate": "2023-09-01",
+    "creditAmount": 9000.0,
+    "debitAmount": 0.0,
+    "category": {
+      "name": "Service Income",
+      "code": "1008",
+      "sortString": "1008",
+      "type": "Income",
+      "currency": "USD",
+      "indent": [0]
+    }
+  }
+]
