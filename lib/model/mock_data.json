@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "periodDate": "2024-01-01",
+    "periodDate": "2024-10-01",
     "creditAmount": 0.0,
     "debitAmount": 1500.0,
     "category": {
@@ -15,7 +15,7 @@
   },
   {
     "id": "2",
-    "periodDate": "2024-01-01",
+    "periodDate": "2024-11-01",
     "creditAmount": 5000.0,
     "debitAmount": 0.0,
     "category": {
@@ -29,7 +29,7 @@
   },
   {
     "id": "3",
-    "periodDate": "2024-02-01",
+    "periodDate": "2024-11-03",
     "creditAmount": 0.0,
     "debitAmount": 300.0,
     "category": {
@@ -43,7 +43,7 @@
   },
   {
     "id": "4",
-    "periodDate": "2024-02-01",
+    "periodDate": "2024-11-01",
     "creditAmount": 0.0,
     "debitAmount": 1200.0,
     "category": {

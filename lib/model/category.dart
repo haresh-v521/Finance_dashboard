@@ -44,6 +44,8 @@ class CategoryPeriodAmountsModel {
     this.debitAmount,
     this.category,
   });
+  //************* this netActivity calculation is wrong ***********/
+  //follow aiaccreportmodel on how to convert allentries from api to categoryperiodamounts 
   double get netActivity => (creditAmount ?? 0) - (debitAmount ?? 0);
 
   factory CategoryPeriodAmountsModel.fromJson(Map<String, dynamic> json) {

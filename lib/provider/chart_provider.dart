@@ -26,28 +26,29 @@ class ChartProvider extends ChangeNotifier {
 
     DateTime now = DateTime.now();
     switch (value) {
-      case 1:
+      case 1: 
         _startDate = DateTime(now.year, now.month, 1);
         _endDate = DateTime(now.year, now.month, now.day);
         break;
       case 2:
-        _startDate = DateTime(now.year, now.month - 1, now.day);
+        // 2 calendar months ago
+        _startDate = DateTime(now.year, now.month - 2, 1);
         _endDate = DateTime(now.year, now.month, now.day);
         break;
       case 3:
-        _startDate = DateTime(now.year, now.month - 2, now.day);
+        _startDate = DateTime(now.year, now.month - 3, 1);
         _endDate = DateTime(now.year, now.month, now.day);
         break;
       case 6:
-        _startDate = DateTime(now.year, now.month - 5, now.day);
+        _startDate = DateTime(now.year, now.month - 6, 1);
         _endDate = DateTime(now.year, now.month, now.day);
         break;
       case 9:
-        _startDate = DateTime(now.year, now.month - 8, now.day);
+        _startDate = DateTime(now.year, now.month - 9, 1);
         _endDate = DateTime(now.year, now.month, now.day);
         break;
       case 12:
-        _startDate = DateTime(now.year, now.month - 11, now.day);
+        _startDate = DateTime(now.year, now.month - 12, 1);
         _endDate = DateTime(now.year, now.month, now.day);
         break;
       default:

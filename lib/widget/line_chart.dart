@@ -19,6 +19,8 @@ class ProfitAndLossChartWidget extends StatelessWidget {
         children: [
           SfCartesianChart(
             primaryXAxis: DateTimeAxis(
+              minimum: data.first.period,
+              maximum: data.last.period,
               dateFormat: DateFormat('yy/MM'),
               intervalType: DateTimeIntervalType.months,
               majorGridLines: const MajorGridLines(width: 0),
